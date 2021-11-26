@@ -1,0 +1,3 @@
+[submodule "MultithreadingShop"]
+	path = MultithreadingShop
+	url = https://github.com/KirSanich/MultithreadingShop

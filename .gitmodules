@@ -1,3 +1,6 @@
 [submodule "MultithreadingShop"]
 	path = MultithreadingShop
 	url = https://github.com/KirSanich/MultithreadingShop
+[submodule "ForkJoinExample"]
+	path = ForkJoinExample
+	url = git@github.com:KirSanich/ForkJoinExample.git
